@@ -3,7 +3,7 @@ from PIL import Image
 answer=""
 st.title("3. White")
 st.write("White is able to hide everything. . .")
-st.write("In this question, you have to find out a location of the image. Let's find out the word from the picture at this [Google document files](https://docs.google.com/document/d/19ue7jX9jwAhHR02uWkIxgE4DlBt7JUBBT5yHpejt2mg/edit?usp=sharing)")
+st.write("In this question, you have to find out a location of the image. Let's find out the word from the picture at this [Google document files](https://docs.google.com/document/d/1v7rpZlC7mqOmG4BjVKqHV2EKykOX8ls1i1RLhLZziQw/edit?usp=sharing)")
 st.write("Enter the word I took this picture")
 
 answer=st.text_input("Enter the restaurant I took this picture")
